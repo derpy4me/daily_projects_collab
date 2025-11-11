@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/crates/my_first_crate/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/crates/shuffles/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/webpage_copy/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
