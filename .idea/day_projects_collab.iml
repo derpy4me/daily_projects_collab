@@ -4,8 +4,11 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/crates/my_first_crate/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/data_in_file/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/crates/shuffles/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/crates/webpage_copy/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/jmespath_fun/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/yaml_parser/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
