@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/crates/webpage_copy/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/crates/jmespath_fun/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/crates/yaml_parser/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/monad_stuff/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
